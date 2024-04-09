@@ -1,0 +1,21 @@
+  body {
+    background-color: #f3f4f9;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .calculator {
+    margin-right: 20px;
+  }
+  
+  .result {
+    text-align: left;
+  }
+  
+  .bold-text {
+    font-weight: bold;
+  }
+
